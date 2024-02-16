@@ -1,5 +1,4 @@
 ﻿  TCP Server.cpp
-C:\Users\alla0\Documents\GitHub\TCP-Server\TCP Server\TCP Server.cpp(11,18): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
-C:\Users\alla0\Documents\GitHub\TCP-Server\TCP Server\TCP Server.cpp(25,18): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
-C:\Users\alla0\Documents\GitHub\TCP-Server\TCP Server\TCP Server.cpp(34,13): warning C4838: conversion from 'int' to 'SOCKET' requires a narrowing conversion
+C:\Users\alla0\Documents\GitHub\TCP-Server\TCP Server\TCP Server.cpp(41,18): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\alla0\Documents\GitHub\TCP-Server\TCP Server\TCP Server.cpp(63,26): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
   TCP Server.vcxproj -> C:\Users\alla0\Documents\GitHub\TCP-Server\x64\Debug\TCP Server.exe
